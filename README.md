@@ -1,5 +1,5 @@
 ¡Hola!, soy Alejandro Rodríguez Gijón (He/Him). 
-I'm an environmental microbiologist who aims to understand the tiny, by using metagenomics and environmental data data.
+I'm an environmental microbiologist who aims to understand the tiny Archaea and Bacteria by using metagenomics and environmental metadata.
 
    - PhD candidate at the [Microbial Interactions Group](https://miint.org/) at [Stockholm University](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) & [SciLifeLab](https://www.scilifelab.se/) (Stockholm, Sweden).
    - Internship at the [Molecular Ecology Group](http://www.meg.irsa.cnr.it/) at the Istituto di Ricerca sulle Acque (Verbania, Italy).
