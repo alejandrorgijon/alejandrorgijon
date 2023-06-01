@@ -1,4 +1,4 @@
-¡Hola!, I'm Alejandro Rodríguez Gijón (He/Him). <p>&#129440;</p><p>&#129516;</p> 
+¡Hola!, I'm Alejandro Rodríguez Gijón (He/Him).
 I'm an environmental microbiologist who aims to understand the tiny Archaea and Bacteria by using metagenomics and environmental metadata.
 
    - PhD candidate at the [Microbial Interactions Group](https://miint.org/) at [Stockholm University](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) & [SciLifeLab](https://www.scilifelab.se/) (Stockholm, Sweden).
