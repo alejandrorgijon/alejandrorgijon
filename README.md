@@ -7,4 +7,17 @@ I'm an environmental microbiologist who aims to understand the tiny Archaea and 
    - BSc. in [Biology](https://www.uam.es/Ciencias/Biolog%C3%ADa/1242655508884.htm) at Universidad Autónoma de Madrid (Madrid, Spain).
 
 Google Scholar: [Alejandro Rodríguez Gijón](https://scholar.google.com/citations?hl=en&user=5-3GnPQAAAAJ).
-Orcid: [Alejandro Rodríguez-Gijón](https://orcid.org/0000-0002-1649-6894).
+
+   <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-1649-6894"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-1649-6894
+    </a>
