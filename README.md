@@ -1,12 +1,13 @@
-¡Hola!, I'm Alejandro Rodríguez Gijón (He/Him).
-I'm an environmental microbiologist who aims to understand the tiny Archaea and Bacteria by using metagenomics and environmental metadata.
+¡Hola!, I'm [Alejandro Rodríguez Gijón]() (He/Him).
+I'm an environmental microbiologist who aims to understand the ecology and evolution of Archaea and Bacteria by using metagenomics and environmental metadata. 
 
-   - PhD candidate at the [Microbial Interactions Group](https://miint.org/) at [Stockholm University](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) & [SciLifeLab](https://www.scilifelab.se/) (Stockholm, Sweden).
+   - PhD candidate at the [Microbial Interactions - Garcia Group](https://miint.org/) at [Stockholm University](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) & [SciLifeLab](https://www.scilifelab.se/) (Stockholm, Sweden).
    - Internship at the [Molecular Ecology Group](http://www.meg.irsa.cnr.it/) at the Istituto di Ricerca sulle Acque (Verbania, Italy).
    - Msc. in [Conservation of Biodiversity and Ecology](https://www.urjc.es/estudios/master/759-tecnicas-de-conservacion-de-la-biodiversidad-y-ecologia) at Universidad Rey Juan Carlos (Madrid, Spain).
    - BSc. in [Biology](https://www.uam.es/Ciencias/Biolog%C3%ADa/1242655508884.htm) at Universidad Autónoma de Madrid (Madrid, Spain).
 
-Google Scholar: [Alejandro Rodríguez Gijón](https://scholar.google.com/citations?hl=en&user=5-3GnPQAAAAJ).
+To check all my publications, check my [Google scholar](https://scholar.google.com/citations?hl=en&user=5-3GnPQAAAAJ)!
+Or if you prefer it, I am on [Twitter](https://twitter.com/_RodriguezGijon)!
 
    <a
     id="cy-effective-orcid-url"
@@ -21,3 +22,10 @@ Google Scholar: [Alejandro Rodríguez Gijón](https://scholar.google.com/citatio
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-1649-6894
     </a>
+
+Selected publications:
+-
+
+- <b>Rodríguez-Gijón, A.</b>, Buck, M., Andersson, A.F., Izabel-Shen, D., Nascimento, F.J.A., Garcia, S.L. 2023. Linking prokaryotic genome size variation to metabolic potential and environment. <i>ISME Communications</i> 3, 25 [10.1038/s43705-023-00231-x](https://www.nature.com/articles/s43705-023-00231-x).
+- Broman, E., Izabel-Shen, D., <b>Rodríguez-Gijón, A.</b>, Bongalia, S., Garcia, S.L., Nascimento, F.J.A. 2022. Microbial functional genes are driven by gradients in sediment stoichiometry, oxygen, and salinity across the Baltic benthic ecosystem. <i>Microbiome</i> 10, 126 [10.1186/s40168-022-01321-z](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01321-z).
+- <b>Rodríguez-Gijón, A.</b>, Nuy, J.K., Mehrshad, M., Buck, M., Schulz, F., Woyke, T., Garcia, S.L. 2022. A genomic perspective across Earth’s microbiomes reveals that genome size in Archaea and Bacteria is linked to ecosystem type and trophic strategy. <i>Frontiers in Microbiology</i> 12 [10.3389/fmicb.2021.761869](https://www.frontiersin.org/articles/10.3389/fmicb.2021.761869/full).
