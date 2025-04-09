@@ -1,7 +1,7 @@
 ¡Hola!, I'm [Alejandro Rodríguez Gijón (He/Him)](https://twitter.com/_RodriguezGijon).
 I'm an environmental microbiologist who aims to understand the ecology and evolution of Archaea and Bacteria by using metagenomics and environmental metadata. Here below you can find a bit of my background!
 
-   - Postdoctoral researcher in the [group of Rafael Laso Pérez](https://rafaellasoperez.webnode.es/) at the [Museo Nacional de Ciencias Naturales](https://www.mncn.csic.es/es/quienes_somos/rodriguez-gijon-alejandro) in Madrid (Spain).
+   - Postdoctoral researcher in the group of [Rafael Laso Pérez](https://rafaellasoperez.webnode.es/) at the [Museo Nacional de Ciencias Naturales](https://www.mncn.csic.es/es/quienes_somos/rodriguez-gijon-alejandro) in Madrid (Spain).
    - PhD candidate at the [Microbial Interactions - Garcia Group](https://miint.org/) at [Stockholm University](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) & [SciLifeLab](https://www.scilifelab.se/) in Stockholm (Sweden).
    - Internship at the [Molecular Ecology Group](http://www.meg.irsa.cnr.it/) at the Istituto di Ricerca sulle Acque in Verbania (Italy).
    - Msc. in [Conservation of Biodiversity and Ecology](https://www.urjc.es/estudios/master/759-tecnicas-de-conservacion-de-la-biodiversidad-y-ecologia) at Universidad Rey Juan Carlos in Madrid (Spain).
